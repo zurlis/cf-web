@@ -3,7 +3,7 @@
 banner:
   title: "Club de Física de la UAB"
   content: "El Club de Física de la UAB és un nou organisme que inaugurem aquest curs 2024-2025. En aquest Club ens reunim tot un conjunt de persones interessades en la física i la investigació científica. L'objectiu d'aquest grup és fomentar la motivació per investigar, descobrir, compartir i aprendre a través de compartir amb persones que també tenen el mateix objectiu. En aquest nou espai busquem fer física en la forma més pura possible."
-  image: "/images/banner.png"
+  image: "/images/portada.webp"
   button:
     enable: false
     label: "Get Started For Free"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Qui som"
-    image: "/images/service-1.png"
+    image: "/images/IMG_7894.jpg"
     content: "El Club de Física de la UAB és un organisme nou, de manera que encara està en creixement. De moment el grup està format en la seva majoria per estudiants del primer curs del grau de física, els quals es troben també amb alumnes de més experiència, com poden ser alumnes que cursen el TFG, TFM o doctorat. Finalment, tot el grup està coordinat pel professor Pere Masjuan."
     bulletpoints:
       - "Alumnes de primer del grau de física"
@@ -25,7 +25,7 @@ features:
       link: "#"
 
   - title: "Què fem"
-    image: "/images/service-2.png"
+    image: "/images/colabora.webp"
     content: "Amb la inauguració del Club, hem volgut aprofitar que aquest proper 2025 és l'Any Internacional de la Ciència i Tecnologia Quàntiques. Hem volgut proposar un seguit de temes als alumnes de 1r, tots relacionats amb la física quàntica. Els alumnes s'han agrupat en grups de 2, 3 o 4 persones per investigar sobre un tema en concret, treballant així en un projecte comú. Per complementar els grups, els estudiants amb més experiència, és a dir, els que cursen TFG, TFM o doctorat, s'han afegit en alguns grups per mentoritzar-los. Finalment, el funcionament del Club en conjunt el coordina el professor Pere Masjuan, juntament amb la Júlia López, estudiant de TFG."
     bulletpoints:
       - "Treballem en grup"
