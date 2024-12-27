@@ -1,0 +1,43 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Qui Som"
+url = "/authors"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 3
+
+[[main]]
+name = "Imatges"
+url = "/gallery"
+weight = 4
+
+[[main]]
+name = "Contacte"
+url = "/contact"
+weight = 5
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "/blog"
+weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
