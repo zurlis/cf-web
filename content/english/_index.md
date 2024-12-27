@@ -44,7 +44,7 @@ features:
     content: "T'agradaria formar part del Club? Estem esperant-te! A l'apartat de contacte trobaràs un formulari on pots posar-te en contacte amb nosaltres."
     bulletpoints:
       - "Si ets de 1r de Física, pots participar en algun dels projectes"
-      - "Encara no estàs segur de si el Club de Física és un lloc per tu? Contacta amb nosaltres per venir d'oient a alguna de les nostres reunions!"
+      - "Encara no estàs segur/a de si el Club de Física és un lloc per tu? Contacta amb nosaltres per venir d'oient a alguna de les nostres reunions!"
       - "Curses TFG, TFM o doctorat? Pots venir a les reunions i mentoritzar algun projecte!"
       - "T'agradaria portar les xarxes socials del Club? Contacta amb nosaltres!"
       - "T'agrada organitzar esdeveniments? Ajuda'ns a preparar la Fira del Club de Física!"
