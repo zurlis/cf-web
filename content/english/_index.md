@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Qui som"
+  - title: "Qui som?"
     image: "/images/IMG_7894.jpg"
     content: "El Club de Física de la UAB és un organisme nou, de manera que encara està en creixement i poc a poc anem incorporant nous integrants. De moment el grup està format en la seva majoria per estudiants del primer curs del grau de Física, els quals es reuneixen també amb alumnes de més experiència, com poden ser alumnes que cursen el TFG, TFM o doctorat. Finalment, tot el grup està coordinat pel professor Pere Masjuan, qui procura assegurar, juntament amb l'estudiant de TFG Júlia López, que el funcionament del Club vagi sempre cap a millor."
     bulletpoints:
@@ -24,7 +24,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Què fem"
+  - title: "Què fem?"
     image: "/images/colabora.webp"
     content: "Amb la inauguració del Club, hem volgut aprofitar que aquest proper 2025 és l'Any Internacional de la Ciència i Tecnologia Quàntiques. Hem volgut proposar un seguit de temes als alumnes de primer, tots relacionats amb la física quàntica. Els alumnes s'han agrupat en grups de 2, 3 o 4 persones per investigar sobre un tema en concret, treballant així en un projecte de forma col·laborativa. Per complementar els grups, els estudiants amb més experiència, és a dir, els que cursen TFG, TFM o doctorat, s'han afegit en alguns grups per mentoritzar-los. Finalment, el funcionament del Club en conjunt el coordina el professor Pere Masjuan, juntament amb la Júlia López, estudiant de TFG."
     bulletpoints:
