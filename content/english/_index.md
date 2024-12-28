@@ -3,7 +3,7 @@
 banner:
   title: "Club de Física de la UAB"
   content: "El Club de Física de la UAB és un nou organisme que inaugurem aquest curs 2024-2025, en el qual ens reunim tot un conjunt de persones interessades en la física i la investigació científica. L'objectiu d'aquest grup és fomentar la motivació per investigar, descobrir, compartir i aprendre a través de compartir amb persones que també tenen el mateix objectiu. En definitiva, en aquest nou espai busquem fer física en la forma més pura possible."
-  image: "/images/portada.webp"
+  image: "/images/contemplar2.jpg"
   button:
     enable: false
     label: "Get Started For Free"
@@ -40,7 +40,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Vols Col·laborar?"
-    image: "/images/service-3.png"
+    image: "/images/colabora (2).webp"
     content: "T'agradaria formar part del Club? Estem esperant-te! A l'apartat de contacte trobaràs un formulari on pots posar-te en contacte amb nosaltres."
     bulletpoints:
       - "Si ets de 1r de Física, pots participar en algun dels projectes"
