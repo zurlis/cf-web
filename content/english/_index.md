@@ -40,7 +40,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Vols Col·laborar?"
-    image: "/images/colabora (2).webp"
+    image: "/images/coloab3.webp"
     content: "T'agradaria formar part del Club? Estem esperant-te! A l'apartat de contacte trobaràs un formulari on pots posar-te en contacte amb nosaltres."
     bulletpoints:
       - "Si ets de 1r de Física, pots participar en algun dels projectes"
