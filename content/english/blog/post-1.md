@@ -10,7 +10,7 @@ tags: ["clubdefisica", "femfisica"]
 draft: false
 ---
 
-Inaugurem el Club de Física de la UAB! Els alumnes de primer del grau de Física s'han reunit amb els més grans, estudiants de TFG, màster, doctorat i post-doctorat! Avui hem pogut gaudir d'una presentació d'alguns dels integrants del Club sobre la supersimetria...s'ha generat un debat molt interessant entre tots!
+Inaugurem el Club de Física de la UAB! Els alumnes de primer del grau de Física s'han reunit amb els més grans: estudiants de TFG, màster, doctorat i post-doctorat! Avui hem pogut gaudir d'una presentació d'alguns dels integrants del Club sobre la supersimetria...s'ha generat un debat molt interessant entre tots!
 
 ## Teoria de la Supersimetria
 

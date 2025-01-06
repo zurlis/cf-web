@@ -1,7 +1,7 @@
 ---
-title: Àlex Pascual
+title: Alex Pascual
 image: "/images/avatar.png"
-description: this is meta description
+description: meta descr
 ---
 
-???
+Estudiant del màster en Física d'Altes Energies. També m'estic formant en programació. En el meu TFM estic estudiant la relació entre el moment anòmal del muó i l'entrellaçament quàntic. Fora dels estudis, m'interessa l'esport i també la divulgació científica.
