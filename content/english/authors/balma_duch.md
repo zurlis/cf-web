@@ -1,6 +1,6 @@
 ---
 title: Balma Duch
-image: "/images/avatar.png"
+image: "/images/balma.jpeg"
 description: this is meta description
 ---
 
