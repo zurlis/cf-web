@@ -1,6 +1,6 @@
 ---
 title: Isaac Domínguez
-image: "/images/isaac.jpg"
+image: "/images/profile_pictures/isaac.jpg"
 description: this is meta description
 ---
 

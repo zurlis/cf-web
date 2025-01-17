@@ -3,7 +3,7 @@ title: "Inaugurem el Club de Física de la UAB"
 meta_title: ""
 description: "this is meta description"
 date: 2024-12-16T05:00:00Z
-image: "/images/IMG_7894.jpg"
+image: "/images/gallery/IMG_7894.jpg"
 categories: ["Reunions", "Club de Física"]
 author: "Júlia López"
 tags: ["clubdefisica", "femfisica"]

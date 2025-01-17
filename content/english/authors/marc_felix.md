@@ -1,6 +1,6 @@
 ---
 title: Marc Félix
-image: "/images/marc_felix.jpeg"
+image: "/images/profile_pictures/marc_felix.jpeg"
 description: this is meta description
 ---
 

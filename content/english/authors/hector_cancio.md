@@ -1,6 +1,6 @@
 ---
 title: Héctor Cancio
-image: "/images/hector.jpeg"
+image: "/images/profile_pictures/hector.jpeg"
 description: this is meta description
 ---
 

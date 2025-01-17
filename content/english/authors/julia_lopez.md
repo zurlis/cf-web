@@ -1,6 +1,6 @@
 ---
 title: Júlia López
-image: "/images/julia.jpg"
+image: "/images/profile_pictures/julia.jpg"
 description: this is meta description
 ---
 
