@@ -1,6 +1,6 @@
 ---
 title: Alex Pascual
-image: "/images/avatar.png"
+image: "/images/profile_pictures/avatar.png"
 description: meta descr
 ---
 
