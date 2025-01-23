@@ -1,6 +1,6 @@
 ---
 title: Robert Manucharyan
-image: "/images/avatar.png"
+image: "/images/profile_pictures/avatar.png"
 description: this is meta description
 ---
 
