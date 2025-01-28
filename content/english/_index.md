@@ -25,7 +25,7 @@ features:
       link: "#"
 
   - title: "Què fem?"
-    image: "/images/colabora.webp"
+    image: "/images/reunio.webp"
     content: "Amb la inauguració del Club, hem volgut aprofitar que aquest proper 2025 és l'Any Internacional de la Ciència i Tecnologia Quàntiques. Hem volgut proposar un seguit de temes als alumnes de primer, tots relacionats amb la física quàntica. Els alumnes s'han agrupat en grups de 2, 3 o 4 persones per investigar sobre un tema en concret, treballant així en un projecte de forma col·laborativa. Per complementar els grups, els estudiants amb més experiència, és a dir, els que cursen TFG, TFM o doctorat, s'han afegit en alguns grups per mentoritzar-los. Finalment, el funcionament del Club en conjunt el coordina el professor Pere Masjuan, juntament amb la Júlia López, estudiant de TFG."
     bulletpoints:
       - "Treballem en grup"
@@ -40,7 +40,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Vols Col·laborar?"
-    image: "/images/coloab3.webp"
+    image: "/images/connexions.jpg"
     content: "T'agradaria formar part del Club? Estem esperant-te! A l'apartat de contacte trobaràs un formulari on pots posar-te en contacte amb nosaltres."
     bulletpoints:
       - "Si ets de 1r de Física, pots participar en algun dels projectes"
