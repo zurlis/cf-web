@@ -1,6 +1,6 @@
 ---
 title: Pere Masjuan
-image: "/images/profile_pictures/avatar.png"
+image: "/images/profile_pictures/pere.jpg"
 description: this is meta description
 ---
 
