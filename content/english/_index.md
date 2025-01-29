@@ -25,7 +25,7 @@ features:
       link: "#"
 
   - title: "Què fem?"
-    image: "/images/reunio.webp"
+    image: "/images/reunio.png"
     content: "Amb la inauguració del Club, hem volgut aprofitar que aquest proper 2025 és l'Any Internacional de la Ciència i Tecnologia Quàntiques. Hem volgut proposar un seguit de temes als alumnes de primer, tots relacionats amb la física quàntica. Els alumnes s'han agrupat en grups de 2, 3 o 4 persones per investigar sobre un tema en concret, treballant així en un projecte de forma col·laborativa. Per complementar els grups, els estudiants amb més experiència, és a dir, els que cursen TFG, TFM o doctorat, s'han afegit en alguns grups per mentoritzar-los. Finalment, el funcionament del Club en conjunt el coordina el professor Pere Masjuan, juntament amb la Júlia López, estudiant de TFG."
     bulletpoints:
       - "Treballem en grup"
@@ -53,4 +53,25 @@ features:
       enable: false
       label: ""
       link: ""
+      
+title: My page
+type: landing
+
+sections:
+  - block: testimonials
+    content:
+      title: Testimonials
+      subtitle: What our customers have to say about us
+      items:
+        - name: Geo
+          username: '@geo'
+          # Image path relative to assets/media/ folder
+          image_filename: tweets/GitHub.png
+          link: https://wowchemy.com
+          text: Awesome!
+        - name: Bob
+          username: '@bob'
+          image_filename: tweets/GitHub.png
+          link: https://wowchemy.com
+          text: Love it!
 ---
