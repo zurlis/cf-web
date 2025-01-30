@@ -24,19 +24,24 @@ main {
   @apply font-secondary text-dark dark:text-darkmode-light mb-4 block text-xl font-normal;
 }
 
-// social icons
+/* Define un gradiente personalizado */
+.custom-gradient {
+  background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);
+}
+
 .social-icons {
   @apply space-x-4;
   li {
     @apply inline-block;
     a {
-      @apply bg-primary dark:bg-darkmode-primary dark:text-dark flex h-9 w-9 items-center justify-center rounded text-center leading-9 text-white;
+      @apply custom-gradient flex h-20 w-20 items-center justify-center rounded-full text-center leading-9 text-white;
       svg {
-        @apply h-5 w-5;
+        @apply h-full w-full; /* Hacer que el SVG ocupe todo el tamaño del contenedor */
       }
     }
   }
 }
+
 
 // swiper pagination
 .swiper-pagination-bullet {
