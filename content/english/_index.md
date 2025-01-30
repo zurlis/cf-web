@@ -55,7 +55,7 @@ features:
       label: ""
       link: ""
       
-title: My page
+title: Club de Física UAB
 type: landing
 
 sections:
