@@ -1,6 +1,6 @@
 #################### default parameters ############################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/gallery/logo_club.jpeg"
+favicon = "images/favicon_logo_club.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/club_logo_rodo.png"
 logo_darkmode = "images/club_logo_rodo.png"
