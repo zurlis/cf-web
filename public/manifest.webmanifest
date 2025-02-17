@@ -1,0 +1,56 @@
+{
+  "name": "Hugoplate",
+  "short_name": "Hugoplate",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://zurlis.github.io/cf-web/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/cf-web/images/favicon_logo_club_hu296207678164665625.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/cf-web/images/favicon_logo_club_hu17491565808791189148.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/cf-web/images/favicon_logo_club_hu1655349885902864141.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/cf-web/images/favicon_logo_club_hu16514886590908742441.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/cf-web/images/favicon_logo_club_hu14762238184067478076.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/cf-web/images/favicon_logo_club_hu2365448950002739885.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}

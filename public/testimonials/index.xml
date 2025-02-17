@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Què n&#39;opinen els que ja en formen part? on Hugoplate</title>
+    <link>http://localhost:1313/cf-web/testimonials/</link>
+    <description>Recent content in Què n&#39;opinen els que ja en formen part? on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/cf-web/testimonials/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
