@@ -3156,9 +3156,6 @@ input#nav-toggle:checked ~ #nav-menu{
   .lg\:\!max-w-\[400px\]{
     max-width: 400px !important;
   }
-  .lg\:\!max-w-\[600px\]{
-    max-width: 600px !important;
-  }
   .lg\:space-x-2 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
     margin-right: calc(0.5rem * var(--tw-space-x-reverse));

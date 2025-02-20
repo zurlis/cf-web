@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugoplate</title>
-    <link>https://clubdefisicauab.cat/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Hugoplate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://clubdefisicauab.cat/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clubdefisica</title>
-      <link>https://clubdefisicauab.cat/tags/clubdefisica/</link>
+      <link>http://localhost:1313/tags/clubdefisica/</link>
       <pubDate>Wed, 19 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>https://clubdefisicauab.cat/tags/clubdefisica/</guid>
+      <guid>http://localhost:1313/tags/clubdefisica/</guid>
       <description></description>
     </item>
     <item>
       <title>Reunions</title>
-      <link>https://clubdefisicauab.cat/tags/reunions/</link>
+      <link>http://localhost:1313/tags/reunions/</link>
       <pubDate>Wed, 19 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>https://clubdefisicauab.cat/tags/reunions/</guid>
+      <guid>http://localhost:1313/tags/reunions/</guid>
       <description></description>
     </item>
     <item>
       <title>Logo</title>
-      <link>https://clubdefisicauab.cat/tags/logo/</link>
+      <link>http://localhost:1313/tags/logo/</link>
       <pubDate>Tue, 31 Dec 2024 05:00:00 +0000</pubDate>
-      <guid>https://clubdefisicauab.cat/tags/logo/</guid>
+      <guid>http://localhost:1313/tags/logo/</guid>
       <description></description>
     </item>
     <item>
       <title>Femfisica</title>
-      <link>https://clubdefisicauab.cat/tags/femfisica/</link>
+      <link>http://localhost:1313/tags/femfisica/</link>
       <pubDate>Mon, 16 Dec 2024 05:00:00 +0000</pubDate>
-      <guid>https://clubdefisicauab.cat/tags/femfisica/</guid>
+      <guid>http://localhost:1313/tags/femfisica/</guid>
       <description></description>
     </item>
   </channel>
