@@ -6,7 +6,7 @@ date: 2024-12-31T05:00:00Z
 image: "/images/gallery/logo_club.jpeg"
 categories: ["merch", "Club de Física"]
 author: "Júlia López"
-tags: ["clubdefisica", "merch"]
+tags: ["clubdefisica", "logo"]
 draft: false
 ---
 

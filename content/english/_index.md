@@ -3,7 +3,7 @@
 banner:
   title: "Club de Física de la UAB"
   content: "El Club de Física de la UAB és un nou projecte que inaugurem aquest curs 2024-2025, en el qual ens reunim tot un conjunt de persones interessades en la física i la investigació científica. L'objectiu d'aquest grup és fomentar la motivació per investigar, descobrir i aprendre a través de compartir amb persones que també tenen el mateix objectiu. En definitiva, en aquest nou espai busquem fer física de la forma més pura possible."
-  image: "/images/gallery/logo_club.jpeg"
+  image: "/images/club_logo_rodo.png"
   button:
     enable: false
     label: "Get Started For Free"

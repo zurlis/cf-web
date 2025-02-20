@@ -2,94 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clubdefisicauab.cat/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/club-de-f%C3%ADsica/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clubdefisica/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post-8/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reunions/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reunions/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-19T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post-7/</loc>
     <lastmod>2025-02-12T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/categories/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/categories/club-de-f%C3%ADsica/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/tags/clubdefisica/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/tags/reunions/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/categories/reunions/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/tags/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-7/</loc>
-    <lastmod>2025-02-12T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-6/</loc>
+    <loc>http://localhost:1313/blog/post-6/</loc>
     <lastmod>2025-02-05T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-5/</loc>
+    <loc>http://localhost:1313/blog/post-5/</loc>
     <lastmod>2025-01-22T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-4/</loc>
+    <loc>http://localhost:1313/blog/post-4/</loc>
     <lastmod>2025-01-15T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-3/</loc>
+    <loc>http://localhost:1313/blog/post-3/</loc>
     <lastmod>2025-01-08T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-2/</loc>
+    <loc>http://localhost:1313/tags/logo/</loc>
     <lastmod>2024-12-31T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/tags/merch/</loc>
+    <loc>http://localhost:1313/blog/post-2/</loc>
     <lastmod>2024-12-31T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/categories/merch/</loc>
+    <loc>http://localhost:1313/categories/merch/</loc>
     <lastmod>2024-12-31T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/tags/femfisica/</loc>
+    <loc>http://localhost:1313/tags/femfisica/</loc>
     <lastmod>2024-12-16T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/blog/post-1/</loc>
+    <loc>http://localhost:1313/blog/post-1/</loc>
     <lastmod>2024-12-16T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/alex_pascual/</loc>
+    <loc>http://localhost:1313/authors/alex_pascual/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/ana_planells/</loc>
+    <loc>http://localhost:1313/authors/ana_planells/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/balma_duch/</loc>
+    <loc>http://localhost:1313/authors/balma_duch/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/elements/</loc>
+    <loc>http://localhost:1313/elements/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/hector_cancio/</loc>
+    <loc>http://localhost:1313/authors/hector_cancio/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/isaac_dominguez/</loc>
+    <loc>http://localhost:1313/authors/isaac_dominguez/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/julia_lopez/</loc>
+    <loc>http://localhost:1313/authors/julia_lopez/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/marc_felix/</loc>
+    <loc>http://localhost:1313/authors/marc_felix/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/marta_ruiz/</loc>
+    <loc>http://localhost:1313/authors/marta_ruiz/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/pere_masjuan/</loc>
+    <loc>http://localhost:1313/authors/pere_masjuan/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/robert/</loc>
+    <loc>http://localhost:1313/authors/robert/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://clubdefisicauab.cat/authors/toni_rivera/</loc>
+    <loc>http://localhost:1313/authors/toni_rivera/</loc>
   </url>
 </urlset>

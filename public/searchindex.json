@@ -1,5 +1,16 @@
 [{
   "section": "Blog",
+  "slug": "/blog/post-8/",
+  "title": "Existeix l&#39;espaitemps?",
+  "description": "this is meta description",
+  "date": "February 19, 2025",
+  "image": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/gallery/post8_hu18214886835905613221.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"420\"\n          height=\"558\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/gallery\\/post8_hu3229933374764870348.jpeg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "imageSM": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n          \n          \n          \n          \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/gallery/post8_hu18366499512949170521.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"100\"\n          height=\"100\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/gallery\\/post8_hu2978021281140336876.jpeg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "searchKeyword": "",
+  "categories": "reunions, Club de Física",
+  "tags": "clubdefisica, reunions",
+  "content":"La reunió d\u0026rsquo;avuí ha estat bastant diversa en temàtica. La setmana passada, en Pere va llençar una pregunta a l\u0026rsquo;aire que ens ha donat molt per pensar\u0026hellip; Existeix l\u0026rsquo;espaitemps? Les discussions han donat voltes tant per la banda més filosòfica com per la banda més materialista. La Marta, estudiant de doctorat, ha portat l\u0026rsquo;aparell que detecta muons i ens ha explicat breument el seu funcionament. Hem pogut escoltar els \u0026lsquo;pip\u0026rsquo; de l\u0026rsquo;aparell cada vegada que detectava un muó. Però, com sabem que realment el que detecta són muons? Existeixen els muons? Què en penseu?\nA part de tot això, hem seguit treballant en els projectes que voldrem exposar a la fira a finals de primavera\u0026hellip; les coses van agafant forma!\n"},{
+  "section": "Blog",
   "slug": "/blog/post-7/",
   "title": "Tenim dos nous integrants al Club! Seguim pensant en els nostres projectes quàntics",
   "description": "this is meta description",
@@ -63,7 +74,7 @@
   "imageSM": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n          \n          \n          \n          \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/gallery/logo_club_hu210939292983842741.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"100\"\n          height=\"100\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/gallery\\/logo_club_hu14774263597258477151.jpeg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
   "searchKeyword": "",
   "categories": "merch, Club de Física",
-  "tags": "clubdefisica, merch",
+  "tags": "clubdefisica, logo",
   "content":"Ja tenim el (primer) logo del Club de Física de la UAB! Què us sembla? Agraïm al David, membre del Club, per crear aquest logo tan bonic i elegant!\n"},{
   "section": "Blog",
   "slug": "/blog/post-1/",
