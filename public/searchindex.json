@@ -1,5 +1,16 @@
 [{
   "section": "Blog",
+  "slug": "/blog/post-12/",
+  "title": "Podem pensar en camp elèctric i camp magnètic per separat?",
+  "description": "this is meta description",
+  "date": "March 19, 2025",
+  "image": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/gallery/post12_hu10920768489122505315.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"420\"\n          height=\"315\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/gallery\\/post12_hu5333064422399215642.jpeg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "imageSM": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n          \n          \n          \n          \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/gallery/post12_hu3706800177890311963.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"100\"\n          height=\"100\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/gallery\\/post12_hu8623633173503922848.jpeg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "searchKeyword": "",
+  "categories": "reunions, Club de Física, presentacions",
+  "tags": "clubdefisica, reunions",
+  "content":"Quina relació hi ha entre el camp magnètic i el camp elèctric? Quin paper hi juga la relativitat? Avui hem estat debatent al voltant d\u0026rsquo;aquestes idees. A més a més, hem tingut la sort de poder escoltar el Marc Félix, que ens ha fet una presentació sobre les simetries i ens ha explicat com podem incloure-les en el debat que estàvem tenint. Ha estat una jornada molt interessant i que no ha deixat a ningú indiferent!\n"},{
+  "section": "Blog",
   "slug": "/blog/post-11/",
   "title": "És possible pensar en un món hipotètic en què les constants de la física són diferents a les que coneixem? Quines serien les conseqüències?",
   "description": "this is meta description",
